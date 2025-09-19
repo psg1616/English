@@ -1,0 +1,49 @@
+각 동사의 의미에 맞는 맥락에서 명사를 수식하는 형용사들입니다.
+
+---
+
+- **Attract (끌다)**
+    - **Potential** (잠재적인): potential customers (잠재 고객), potential investors (잠재 투자자)
+    - **New** (새로운): new customers (신규 고객), new investment (신규 투자)
+    - **Foreign** (외국의): foreign investment (외국인 투자), foreign talent (외국 인재)
+    - **Significant** (상당한): significant attention (상당한 관심), significant investment (상당한 투자)
+- **Benefit from (~로부터 이익을 얻다)**
+    - **Mutual** (상호적인): mutual benefit (상호 이익), mutual partnership (상호 협력 관계)
+    - **Financial** (재정적인): financial benefit (재정적 이익), financial support (재정적 지원)
+    - **Long-term** (장기적인): long-term benefit (장기적 이익), long-term growth (장기적 성장)
+    - **Tangible / Intangible** (유형의 / 무형의): tangible benefits (유형의 이익), intangible assets (무형 자산)
+- **Garner (얻다, 모으다)**
+    - **Widespread** (광범위한): widespread support (광범위한 지지), widespread attention (광범위한 관심)
+    - **Public** (대중의): public support (대중의 지지), public attention (대중의 관심)
+    - **Strong** (강력한): strong support (강력한 지지), strong criticism (강력한 비판)
+    - **Valuable** (가치 있는): valuable information (가치 있는 정보), valuable feedback (소중한 피드백)
+- **Incur (발생시키다)**
+    - **Unexpected** (예상치 못한): unexpected costs (예상치 못한 비용), unexpected losses (예기치 못한 손실)
+    - **Additional** (추가적인): additional charges (추가 요금), additional expenses (추가 비용)
+    - **Substantial / Heavy** (상당한 / 막대한): substantial losses (상당한 손실), heavy debts (막대한 빚)
+    - **Operational** (운영상의): operational costs (운영 비용)
+- **Make a profit / Profit (이윤을 내다)**
+    - **Significant / Substantial** (상당한): a significant profit (상당한 수익)
+    - **Record** (기록적인): a record profit (기록적인 수익)
+    - **High** (높은): high profits (높은 수익), high returns (높은 수익률)
+    - **Net / Gross** (순 / 총): net profit (순이익), gross margin (매출 총이익)
+- **Purchase (구매하다)**
+    - **Major** (주요한): a major purchase (중요한 구매), a major asset (주요 자산)
+    - **Bulk** (대량의): a bulk purchase (대량 구매), a bulk order (대량 주문)
+    - **Recent** (최근의): a recent purchase (최근 구매 내역)
+    - **Direct** (직접적인): a direct purchase (직접 구매)
+- **Raise (모으다, 높이다)**
+    - **Sufficient** (충분한): sufficient funds (충분한 자금)
+    - **Additional** (추가적인): additional capital (추가 자본)
+    - **Public** (대중의): public awareness (대중의 인식)
+    - **Urgent** (긴급한): urgent questions (긴급한 질문)
+- **Secure (확보하다)**
+    - **Lucrative** (수익성이 좋은): a lucrative contract (수익성 좋은 계약)
+    - **Long-term** (장기적인): a long-term contract (장기 계약)
+    - **Stable** (안정적인): a stable position (안정적인 직책), stable funding (안정적인 자금)
+    - **Exclusive** (독점적인): an exclusive contract (독점 계약)
+- **Win (따내다, 얻다)**
+    - **Major** (주요한): a major contract (주요 계약)
+    - **Prestigious** (권위 있는): a prestigious award (권위 있는 상)
+    - **Fierce** (치열한): fierce competition (치열한 경쟁)
+    - **Overwhelming** (압도적인): overwhelming support (압도적인 지지)

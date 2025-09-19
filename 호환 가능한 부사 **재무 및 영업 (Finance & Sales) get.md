@@ -1,0 +1,45 @@
+부사는 동사가 '어떻게' 이루어지는지를 설명해 주는 역할을 합니다.
+
+---
+
+- **Attract (끌다)**
+    - **Successfully** (성공적으로): We **successfully** attracted over 1,000 new customers. (우리는 성공적으로 1,000명 이상의 신규 고객을 유치했습니다.)
+    - **Effectively** (효과적으로): The campaign **effectively** attracted the target audience. (그 캠페인은 타겟 고객층을 효과적으로 끌어들였습니다.)
+    - **Strategically** (전략적으로): They **strategically** attract investors by highlighting future growth potential. (그들은 미래 성장 잠재력을 강조하며 전략적으로 투자자들을 유치합니다.)
+    - **Easily** (쉽게): Our unique design **easily** attracts attention. (우리의 독특한 디자인은 쉽게 주목을 끕니다.)
+- **Benefit (from) (~로부터 이익을 얻다)**
+    - **Greatly / Significantly** (크게, 상당히): The company **greatly** benefited from the new policy. (그 회사는 새로운 정책으로부터 큰 이익을 얻었습니다.)
+    - **Directly** (직접적으로): Employees will **directly** benefit from the profit-sharing plan. (직원들은 이익 공유 제도로부터 직접적인 혜택을 볼 것입니다.)
+    - **Financially** (재정적으로): We have benefited **financially** from the partnership. (우리는 그 파트너십을 통해 재정적으로 이익을 얻었습니다.)
+    - **Mutually** (상호적으로): Both companies benefited **mutually** from the collaboration. (두 회사 모두 협력을 통해 상호 간에 이익을 얻었습니다.)
+- **Garner (얻다, 모으다)**
+    - **Gradually** (점차적으로): The new brand **gradually** garnered support from young consumers. (그 신규 브랜드는 젊은 소비자들로부터 점차 지지를 얻었습니다.)
+    - **Quickly** (빠르게): The news **quickly** garnered international attention. (그 소식은 빠르게 국제적인 관심을 모았습니다.)
+    - **Successfully** (성공적으로): He **successfully** garnered enough support to launch the project. (그는 프로젝트를 시작하기에 충분한 지지를 성공적으로 얻었습니다.)
+- **Incur (발생시키다)**
+    - **Unexpectedly** (예상치 못하게): We **unexpectedly** incurred additional costs due to the delay. (우리는 지연 때문에 예상치 못하게 추가 비용을 발생시켰습니다.)
+    - **Inevitably** (불가피하게): Start-ups **inevitably** incur losses in their first year. (스타트업은 첫해에 불가피하게 손실을 봅니다.)
+    - **Directly** (직접적으로): Costs **directly** incurred by the project will be reimbursed. (프로젝트로 인해 직접적으로 발생한 비용은 변제될 것입니다.)
+- **Insure (보험에 들다)**
+    - **Fully** (완전히): Is the shipment **fully** insured against damage? (그 배송품은 파손에 대비해 완전히 보험에 가입되어 있나요?)
+    - **Adequately** (적절하게): You should ensure your property is **adequately** insured. (당신의 자산이 적절하게 보험에 가입되었는지 확인해야 합니다.)
+    - **Properly** (제대로): We need to **properly** insure our new equipment. (우리는 새 장비를 제대로 보험에 들어야 합니다.)
+- **Profit (수익을 얻다) / Make a profit**
+    - **Consistently** (지속적으로): The business has **consistently** made a profit for the last five years. (그 사업은 지난 5년간 지속적으로 이익을 내왔습니다.)
+    - **Handsomely / Substantially** (상당히, 쏠쏠하게): They profited **handsomely** from the real estate deal. (그들은 그 부동산 거래로 상당히 쏠쏠한 수익을 올렸습니다.)
+- **Purchase (구매하다)**
+    - **Recently** (최근에): We **recently** purchased new software for the team. (우리는 최근에 팀을 위한 새 소프트웨어를 구매했습니다.)
+    - **Directly** (직접): You can **directly** purchase the product from our website. (당신은 저희 웹사이트에서 제품을 직접 구매할 수 있습니다.)
+    - **Wisely** (현명하게): She **wisely** purchased the shares when the price was low. (그녀는 가격이 낮을 때 현명하게 주식을 매입했습니다.)
+- **Raise (모으다, 높이다)**
+    - **Successfully** (성공적으로): The charity **successfully** raised over $1 million. (그 자선단체는 성공적으로 100만 달러 이상을 모금했습니다.)
+    - **Quickly** (빠르게): We need to **quickly** raise awareness about this issue. (우리는 이 문제에 대한 인식을 빠르게 높여야 합니다.)
+    - **Efficiently** (효율적으로): The online platform helps startups raise capital more **efficiently**. (온라인 플랫폼은 스타트업이 더 효율적으로 자본을 모으도록 돕습니다.)
+- **Secure (확보하다)**
+    - **Finally** (마침내): After months of negotiation, we **finally** secured the contract. (몇 달간의 협상 끝에 우리는 마침내 그 계약을 확보했습니다.)
+    - **Successfully** (성공적으로): She **successfully** secured funding from three different investors. (그녀는 세 명의 다른 투자자로부터 성공적으로 자금을 확보했습니다.)
+    - **Formally** (공식적으로): The deal was **formally** secured yesterday. (그 거래는 어제 공식적으로 확보되었습니다.)
+- **Win (따내다, 얻다)**
+    - **Ultimately** (궁극적으로): Our company **ultimately** won the bid. (우리 회사가 궁극적으로 입찰을 따냈습니다.)
+    - **Easily** (쉽게): With a superior proposal, we **easily** won the contract. (우월한 제안서 덕분에 우리는 쉽게 계약을 따냈습니다.)
+    - **Narrowly** (간신히, 아슬아슬하게): They **narrowly** won the project over their main competitor. (그들은 주요 경쟁사를 상대로 간신히 프로젝트를 따냈습니다.)
